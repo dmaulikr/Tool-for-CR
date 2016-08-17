@@ -1,0 +1,32 @@
+/* chest cycle content */
+"Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.
+
+The cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.
+
+There are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.
+
+Super Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle." = "除了超级神奇宝箱，其它宝箱掉落不是随机的，它们是由你在宝箱循环的位置决定的。
+            
+如果你4个宝箱空位槽满了，你的宝箱循环不会进位，即使你赢的了一场对战。
+            
+目前宝箱循环表里总共有180个白银宝箱，52个黄金宝箱，4个神奇宝箱，4个巨型宝箱总共240个宝箱组成。
+            
+超级神奇宝箱是唯一一个由运气决定的，它的掉落几率是0.2%，同时它会取代你原本要从宝箱循环里得到的宝箱。
+";
+
+/* locate chest content */
+"You can enter up to 10 of your previous chests.
+
+Magical Chests and Giant Chests are called Rare Chests here.
+
+In the Picker of “2 Previous Rare Chests”, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.
+
+Base on your input, if your input is valid, “Your Next Possible Coming 5 Chests” will show a result, and each row means one possibility." = "你可以输入最多10个你最近得到的宝箱。
+            
+神奇宝箱和巨型宝箱在这里统一归位稀有宝箱。
+            
+在“前两个稀有宝箱”选择器里，右边宝箱代表你的前一个稀有宝箱，左边宝箱代表前一个的前一个稀有宝箱。
+            
+根据你输入的信息，如果输入的信息有效，“你接下来的5个宝箱会是”会显示你可能的结果，每一行代表一个可能的结果。
+";
+

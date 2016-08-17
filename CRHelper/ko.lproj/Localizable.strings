@@ -1,0 +1,30 @@
+/* chest cycle content */
+"Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.
+
+The cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.
+
+There are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.
+
+Super Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle." = "슈퍼마법상자를 제외하고 나머지 상자들은 사이클에의해 결정됩니다. (수퍼 마법상자는 무작위로 결정됨)
+            
+만약 4개의 상자슬롯이 채워지면 다음상자 사이클로 넘어가지않습니다.
+            
+240 상자 사이클에는 180개의 실버상자, 52개의 골드상자, 4개의 마법상자와 2개의 자이언트 상자로 이루어져 있습니다.
+            
+슈퍼마법상자들은 무작위로 선정되며 가능성은 0.2% 확률입니다.";
+
+/* locate chest content */
+"You can enter up to 10 of your previous chests.
+
+Magical Chests and Giant Chests are called Rare Chests here.
+
+In the Picker of “2 Previous Rare Chests”, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.
+
+Base on your input, if your input is valid, “Your Next Possible Coming 5 Chests” will show a result, and each row means one possibility." = "본인의 이전상자들을 최대 10개까지 입력할수있습니다.
+            
+이앱에서 희귀상자란 매직상자와 자이언트상자를 일컷는 말입니다.
+            
+“내 2개의 이전희귀상자” 선택란에서 본인이 기억하는 이전  2개의 희귀상자들을 입력하여 결과범위를 줄일수있습니다.
+            
+본인이 입력한상자들로 내 5개의 다음상자들을 계산합니다. 본인이 기억하는 이전상자가 없거나 입력범위로 결과가 좁혀지지않을경우 한줄에 5개의 예측상자들이 여러줄의 가능성으로 표시됩니다. ";
+

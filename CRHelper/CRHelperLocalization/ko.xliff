@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CRHelper/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body/>
+  </file>
+  <file original="CRHelper/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="0aY-uL-dRu.text">
+        <source>Next 2nd</source>
+        <target>Next 2nd</target>
+        <note>Class = "UILabel"; text = "Next 2nd"; ObjectID = "0aY-uL-dRu";</note>
+      </trans-unit>
+      <trans-unit id="2sO-cl-zq3.text">
+        <source>Locate Chest</source>
+        <target>다음상자 예측</target>
+        <note>Class = "UILabel"; text = "Locate Chest"; ObjectID = "2sO-cl-zq3";</note>
+      </trans-unit>
+      <trans-unit id="4qs-W3-Qof.normalTitle">
+        <source>Gold</source>
+        <target>Gold</target>
+        <note>Class = "UIButton"; normalTitle = "Gold"; ObjectID = "4qs-W3-Qof";</note>
+      </trans-unit>
+      <trans-unit id="4tt-PP-EhZ.title">
+        <source>Chests Cycle</source>
+        <target>상자사이클</target>
+        <note>Class = "UITabBarItem"; title = "Chests Cycle"; ObjectID = "4tt-PP-EhZ";</note>
+      </trans-unit>
+      <trans-unit id="7Vg-3c-WuH.title">
+        <source>Help</source>
+        <target>사용법</target>
+        <note>Class = "UITabBarItem"; title = "Help"; ObjectID = "7Vg-3c-WuH";</note>
+      </trans-unit>
+      <trans-unit id="8zz-Nj-Edh.text">
+        <source>Next 4th</source>
+        <target>Next 4th</target>
+        <note>Class = "UILabel"; text = "Next 4th"; ObjectID = "8zz-Nj-Edh";</note>
+      </trans-unit>
+      <trans-unit id="Aly-KA-mn7.normalTitle">
+        <source>Magic</source>
+        <target>Magic</target>
+        <note>Class = "UIButton"; normalTitle = "Magic"; ObjectID = "Aly-KA-mn7";</note>
+      </trans-unit>
+      <trans-unit id="Ayt-1x-pHt.text">
+        <source>content of chest cycle</source>
+        <target>Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.
+
+The cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.
+
+There are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.
+
+Super Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle.</target>
+        <note>Class = "UITextView"; text = "content of chest cycle"; ObjectID = "Ayt-1x-pHt";</note>
+      </trans-unit>
+      <trans-unit id="BVu-XI-P5N.text">
+        <source>Your Next Possible Coming 5 Chests</source>
+        <target>내 상자 예측결과</target>
+        <note>Class = "UILabel"; text = "Your Next Possible Coming 5 Chests"; ObjectID = "BVu-XI-P5N";</note>
+      </trans-unit>
+      <trans-unit id="Ddw-Ah-Hxu.text">
+        <source>Chest Cycle</source>
+        <target>상자사이클</target>
+        <note>Class = "UILabel"; text = "Chest Cycle"; ObjectID = "Ddw-Ah-Hxu";</note>
+      </trans-unit>
+      <trans-unit id="KvE-nx-nCS.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "KvE-nx-nCS";</note>
+      </trans-unit>
+      <trans-unit id="Pkz-m9-43q.normalTitle">
+        <source>Silver</source>
+        <target>Silver</target>
+        <note>Class = "UIButton"; normalTitle = "Silver"; ObjectID = "Pkz-m9-43q";</note>
+      </trans-unit>
+      <trans-unit id="Q8m-4V-YcX.normalTitle">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Q8m-4V-YcX";</note>
+      </trans-unit>
+      <trans-unit id="S8Y-5W-Lao.text">
+        <source>Enter Your Previous Chests</source>
+        <target>내 이전상자 입력</target>
+        <note>Class = "UILabel"; text = "Enter Your Previous Chests"; ObjectID = "S8Y-5W-Lao";</note>
+      </trans-unit>
+      <trans-unit id="U5Y-P3-uaM.text">
+        <source>Next 5th</source>
+        <target>Next 5th</target>
+        <note>Class = "UILabel"; text = "Next 5th"; ObjectID = "U5Y-P3-uaM";</note>
+      </trans-unit>
+      <trans-unit id="UJW-Nl-5eo.text">
+        <source>Your Previous Chests</source>
+        <target>내 이전상자 입력결과</target>
+        <note>Class = "UILabel"; text = "Your Previous Chests"; ObjectID = "UJW-Nl-5eo";</note>
+      </trans-unit>
+      <trans-unit id="X9w-PF-8al.text">
+        <source>content of locate chest</source>
+        <target>You can enter up to 10 of your previous chests.
+
+Magical Chests and Giant Chests are called Rare Chests here.
+
+In the Picker of 2 Previous Rare Chests, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.
+
+Base on your input, if your input is valid, the possible coming chests will show up.
+
+Each row of possible coming chests means one possibility.</target>
+        <note>Class = "UITextView"; text = "content of locate chest"; ObjectID = "X9w-PF-8al";</note>
+      </trans-unit>
+      <trans-unit id="bif-Rg-ofj.text">
+        <source>Next 1st</source>
+        <target>Next 1st</target>
+        <note>Class = "UILabel"; text = "Next 1st"; ObjectID = "bif-Rg-ofj";</note>
+      </trans-unit>
+      <trans-unit id="hAx-n4-V7y.text">
+        <source>Next 3rd</source>
+        <target>Next 3rd</target>
+        <note>Class = "UILabel"; text = "Next 3rd"; ObjectID = "hAx-n4-V7y";</note>
+      </trans-unit>
+      <trans-unit id="jkt-me-b0q.title">
+        <source>Locate Chest</source>
+        <target>다음상자 예측</target>
+        <note>Class = "UITabBarItem"; title = "Locate Chest"; ObjectID = "jkt-me-b0q";</note>
+      </trans-unit>
+      <trans-unit id="la7-Eu-ZiT.text">
+        <source>Range</source>
+        <target>상자 범위</target>
+        <note>Class = "UILabel"; text = "Range"; ObjectID = "la7-Eu-ZiT";</note>
+      </trans-unit>
+      <trans-unit id="pJ2-dI-y9l.text">
+        <source>2 Previous Rare Chests</source>
+        <target>내 2개의 이전 희귀 상자</target>
+        <note>Class = "UILabel"; text = "2 Previous Rare Chests"; ObjectID = "pJ2-dI-y9l";</note>
+      </trans-unit>
+      <trans-unit id="qVv-dm-IkG.normalTitle">
+        <source>Giant</source>
+        <target>Giant</target>
+        <note>Class = "UIButton"; normalTitle = "Giant"; ObjectID = "qVv-dm-IkG";</note>
+      </trans-unit>
+      <trans-unit id="uuV-6u-A7K.text">
+        <source>The Pickers Below Will Narrow Down Your Result</source>
+        <target>상자범위, 이전희귀상자 입력시 예측 결과 범위 축소</target>
+        <note>Class = "UILabel"; text = "The Pickers Below Will Narrow Down Your Result"; ObjectID = "uuV-6u-A7K";</note>
+      </trans-unit>
+      <trans-unit id="zjm-bo-5kT.normalTitle">
+        <source>Super</source>
+        <target>Super</target>
+        <note>Class = "UIButton"; normalTitle = "Super"; ObjectID = "zjm-bo-5kT";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CRHelper/Info.plist" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CRHelper/Localizable.strings" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.\n\nThe cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.\n\nThere are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.\n\nSuper Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle.">
+        <source>Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.
+
+The cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.
+
+There are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.
+
+Super Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle.</source>
+        <target>슈퍼마법상자를 제외하고 나머지 상자들은 사이클에의해 결정됩니다. (수퍼 마법상자는 무작위로 결정됨)
+            
+            만약 4개의 상자슬롯이 채워지면 다음상자 사이클로 넘어가지않습니다.
+            
+            240 상자 사이클에는 180개의 실버상자, 52개의 골드상자, 4개의 마법상자와 2개의 자이언트 상자로 이루어져 있습니다.
+            
+            슈퍼마법상자들은 무작위로 선정되며 가능성은 0.2% 확률입니다.</target>
+        <note>chest cycle content</note>
+      </trans-unit>
+      <trans-unit id="You can enter up to 10 of your previous chests.\n\nMagical Chests and Giant Chests are called Rare Chests here.\n\nIn the Picker of “2 Previous Rare Chests”, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.\n\nBase on your input, if your input is valid, “Your Next Possible Coming 5 Chests” will show a result, and each row means one possibility.">
+        <source>You can enter up to 10 of your previous chests.
+
+Magical Chests and Giant Chests are called Rare Chests here.
+
+In the Picker of “2 Previous Rare Chests”, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.
+
+Base on your input, if your input is valid, “Your Next Possible Coming 5 Chests” will show a result, and each row means one possibility.</source>
+        <target>본인의 이전상자들을 최대 10개까지 입력할수있습니다.
+            
+            이앱에서 희귀상자란 매직상자와 자이언트상자를 일컷는 말입니다.
+            
+            “내 2개의 이전희귀상자” 선택란에서 본인이 기억하는 이전  2개의 희귀상자들을 입력하여 결과범위를 줄일수있습니다.
+            
+            본인이 입력한상자들로 내 5개의 다음상자들을 계산합니다. 본인이 기억하는 이전상자가 없거나 입력범위로 결과가 좁혀지지않을경우 한줄에 5개의 예측상자들이 여러줄의 가능성으로 표시됩니다. </target>
+        <note>locate chest content</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CRHelperTests/Info.plist" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CRHelperUITests/Info.plist" source-language="en" datatype="plaintext" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

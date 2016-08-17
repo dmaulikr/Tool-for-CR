@@ -1,0 +1,89 @@
+/* Class = "UILabel"; text = "Next 2nd"; ObjectID = "0aY-uL-dRu"; */
+"0aY-uL-dRu.text" = "Next 2nd";
+
+/* Class = "UILabel"; text = "Locate Chest"; ObjectID = "2sO-cl-zq3"; */
+"2sO-cl-zq3.text" = "寶箱定位";
+
+/* Class = "UIButton"; normalTitle = "Gold"; ObjectID = "4qs-W3-Qof"; */
+"4qs-W3-Qof.normalTitle" = "Gold";
+
+/* Class = "UITabBarItem"; title = "Chests Cycle"; ObjectID = "4tt-PP-EhZ"; */
+"4tt-PP-EhZ.title" = "寶箱循環";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "7Vg-3c-WuH"; */
+"7Vg-3c-WuH.title" = "幫助";
+
+/* Class = "UILabel"; text = "Next 4th"; ObjectID = "8zz-Nj-Edh"; */
+"8zz-Nj-Edh.text" = "Next 4th";
+
+/* Class = "UIButton"; normalTitle = "Magic"; ObjectID = "Aly-KA-mn7"; */
+"Aly-KA-mn7.normalTitle" = "Magic";
+
+/* Class = "UITextView"; text = "content of chest cycle"; ObjectID = "Ayt-1x-pHt"; */
+"Ayt-1x-pHt.text" = "Besides Super Magical Chests, chests are not determined by chance, they are determined by a cycle.
+
+The cycle does not advance if you have no empty chest slots. You must have a chest slot open to get the next chest and move forward in the cycle.
+
+There are 180 Silver Chests, 52 Golden Chests, 4 Magical Chests and 4 Giant Chests in the 240 chests cycle.
+
+Super Magical Chests are the only chests given by chance, which is 0.2%. And it will replace the one in the cycle.";
+
+/* Class = "UILabel"; text = "Your Next Possible Coming 5 Chests"; ObjectID = "BVu-XI-P5N"; */
+"BVu-XI-P5N.text" = "你接下來的5個寶箱可能會是";
+
+/* Class = "UILabel"; text = "Chest Cycle"; ObjectID = "Ddw-Ah-Hxu"; */
+"Ddw-Ah-Hxu.text" = "寶箱循環";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KvE-nx-nCS"; */
+"KvE-nx-nCS.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Silver"; ObjectID = "Pkz-m9-43q"; */
+"Pkz-m9-43q.normalTitle" = "Silver";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "Q8m-4V-YcX"; */
+"Q8m-4V-YcX.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Enter Your Previous Chests"; ObjectID = "S8Y-5W-Lao"; */
+"S8Y-5W-Lao.text" = "輸入你最近得到的寶箱";
+
+/* Class = "UILabel"; text = "Next 5th"; ObjectID = "U5Y-P3-uaM"; */
+"U5Y-P3-uaM.text" = "Next 5th";
+
+/* Class = "UILabel"; text = "Your Previous Chests"; ObjectID = "UJW-Nl-5eo"; */
+"UJW-Nl-5eo.text" = "你最近得到的寶箱";
+
+/* Class = "UITextView"; text = "content of locate chest"; ObjectID = "X9w-PF-8al"; */
+"X9w-PF-8al.text" = "You can enter up to 10 of your previous chests.
+
+Magical Chests and Giant Chests are called Rare Chests here.
+
+In the Picker of 2 Previous Rare Chests, right one is your previous Rare Chest, left one is the Rare Chests before your previous Rare Chest.
+
+Base on your input, if your input is valid, the possible coming chests will show up.
+
+Each row of possible coming chests means one possibility.";
+
+/* Class = "UILabel"; text = "Next 1st"; ObjectID = "bif-Rg-ofj"; */
+"bif-Rg-ofj.text" = "Next 1st";
+
+/* Class = "UILabel"; text = "Next 3rd"; ObjectID = "hAx-n4-V7y"; */
+"hAx-n4-V7y.text" = "Next 3rd";
+
+/* Class = "UITabBarItem"; title = "Locate Chest"; ObjectID = "jkt-me-b0q"; */
+"jkt-me-b0q.title" = "寶箱定位";
+
+/* Class = "UILabel"; text = "Range"; ObjectID = "la7-Eu-ZiT"; */
+"la7-Eu-ZiT.text" = "範圍";
+
+/* Class = "UILabel"; text = "2 Previous Rare Chests"; ObjectID = "pJ2-dI-y9l"; */
+"pJ2-dI-y9l.text" = "前兩個稀有寶箱";
+
+/* Class = "UIButton"; normalTitle = "Giant"; ObjectID = "qVv-dm-IkG"; */
+"qVv-dm-IkG.normalTitle" = "Giant";
+
+/* Class = "UILabel"; text = "The Pickers Below Will Narrow Down Your Result"; ObjectID = "uuV-6u-A7K"; */
+"uuV-6u-A7K.text" = "下面的選擇器會縮小你的結果範圍";
+
+/* Class = "UIButton"; normalTitle = "Super"; ObjectID = "zjm-bo-5kT"; */
+"zjm-bo-5kT.normalTitle" = "Super";
+
