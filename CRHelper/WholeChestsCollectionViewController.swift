@@ -2,7 +2,7 @@
 //  WholeChestsCollectionViewController.swift
 //  CRHelper
 //
-//  Created by 吴凡 on 5/25/16.
+//  Created by Fan Wu on 5/25/16.
 //  Copyright © 2016 8184. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  HelpViewController.swift
 //  CRHelper
 //
-//  Created by 吴凡 on 6/1/16.
+//  Created by Fan Wu on 6/1/16.
 //  Copyright © 2016 8184. All rights reserved.
 //
 
